@@ -59,6 +59,7 @@ Currently studying to become an IT Security Specialist, with a focus on practica
 ## Contact
 
 - GitHub: [@AliBen-git](https://github.com/AliBen-git)
+- LinkedIn: [Ali Ben Hassine](https://www.linkedin.com/in/ali-b-23944a2b9/)
 
 ---
 
