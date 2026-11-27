@@ -27,27 +27,37 @@ My focus is on understanding what security telemetry shows, correlating evidence
 
 ## Featured Projects
 
-### 1. Splunk SOC Threat Hunting & Incident Analysis
+### 1. Microsoft Sentinel SOC Investigations
+[View Repository](https://github.com/AliBen-git/Microsoft-Sentinel-SOC-Investigations)
+
+Hands-on Microsoft Sentinel SOC lab covering Azure log ingestion, KQL threat hunting, SSH brute-force investigation, incident management, and threat intelligence.
+
+### 2. Sysmon Windows Endpoint Investigation
+[View Repository](https://github.com/AliBen-git/Sysmon-Windows-Endpoint-Investigation)
+
+Windows endpoint investigation using Sysmon EVTX data and PowerShell. Covers USB-related telemetry, a suspicious Run-key modification, CHM/HTA process ancestry, XML field extraction, time-window checks, and CSV validation. Conclusions are limited to the supplied event evidence.
+
+### 3. Splunk SOC Threat Hunting & Incident Analysis
 [View Repository](https://github.com/AliBen-git/Splunk-SOC-Threat-Hunting)
 
 Investigating SSH authentication activity in Splunk Enterprise using Linux authentication logs, Fail2ban events, and UFW firewall logs. Includes SPL searches, dashboard documentation, and an evidence-based incident analysis.
 
-### 2. Splunk Web & IDS Incident Analysis
+### 4. Splunk Web & IDS Incident Analysis
 [View Repository](https://github.com/AliBen-git/Splunk-Web-IDS-Incident-Analysis)
 
 Correlating web access logs and IDS alerts in Splunk to investigate suspicious requests, analyse HTTP responses, review IDS detections, and reconstruct an event timeline.
 
-### 3. Splunk WannaCry Ransomware Case Analysis
+### 5. Splunk WannaCry Ransomware Case Analysis
 [View Repository](https://github.com/AliBen-git/Splunk-WannaCry-Ransomware-Analysis)
 
 A simulated ransomware investigation lab focused on SMB scanning, EternalBlue detection, suspicious process and service activity, file-encryption events, registry modifications, and timeline reconstruction. The repository currently documents the lab methodology and searches; actual incident findings remain to be collected from the lab dataset.
 
-### 4. Zeek Network Security Labs
+### 6. Zeek Network Security Labs
 [View Repository](https://github.com/AliBen-git/zeek-network-security-labs)
 
 Hands-on network security monitoring with Zeek, including PCAP analysis, Zeek scripting, signatures, connection monitoring, and investigation of network events.
 
-### 5. pfSense Firewall & Network Segmentation
+### 7. pfSense Firewall & Network Segmentation
 [View Repository](https://github.com/AliBen-git/Pfsense-firewall-segmentation)
 
 A practical firewall lab covering firewall rules, LAN/WAN traffic control, aliases, NAT, traffic analysis, logging, troubleshooting, and connectivity testing in a virtualised environment.
